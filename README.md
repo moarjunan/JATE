@@ -27,7 +27,7 @@ Demo:
 
 ![demo](/demo.gif)
 
-https://jate-marjunan-80e6a2e163eb.herokuapp.com/
+https://glacial-savannah-65918-6d923ecdf143.herokuapp.com/
 
 ## Credits
 
